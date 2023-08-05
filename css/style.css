@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(250, 218, 229);
+    font-family: "PT Sans Caption", sans-serif;
+}
+h1{
+    font-family: Pacifico, cursive;
+    font-size: 50px;
+    color: rgb(53, 46, 40);
+   
+}
+.dot{
+    border-bottom:4px ;
+    border-top:0px ;
+    border-right:0px ;
+    border-left:0px ;
+    border-style: dotted;
+  padding-bottom: 50px;
+    color: black;
+}
+h2{
+    font-family: Righteous, cursive;
+    font-size: 25px;
+    color: linear-gradient(to right, rgb(60, 165, 92), rgb(181, 172, 73));
+    background-image: linear-gradient(to right, rgb(60, 165, 92), rgb(181, 172, 73));
+    background-clip: text;
+   background-color: transparent;
+}
+ .sub{
+    background-color: brown;
+    left: 600px;
+    
+   
+}
